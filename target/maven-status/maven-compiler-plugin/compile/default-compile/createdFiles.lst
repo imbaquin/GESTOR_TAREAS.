@@ -1,0 +1,6 @@
+RegisterServlet\RegisterServlet.class
+com\mycompany\todolistapp\JakartaRestConfiguration.class
+com\mycompany\todolistapp\resources\JakartaEE10Resource.class
+LoginServlet\LoginServlet.class
+model\User.class
+util\FileUtil.class
